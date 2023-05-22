@@ -26,7 +26,7 @@ They can search inside the followers list and get detailed info. They also can a
 - Memory Leaks
 - Adjusting for specific screen sizes
 - Delegates & Protocol 
- - [MVC](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/MVC.html)
+
 - ...
 
 
